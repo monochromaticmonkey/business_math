@@ -1,3 +1,6 @@
+# CustomeLifeTimeValue class references the global variables below
+
+
 revenue = 20000
 num_purchases = 500
 num_unique_customers = 150
