@@ -1,15 +1,4 @@
-# CustomeLifeTimeValue class references the global variables below
 
-
-revenue = 20000
-num_purchases = 500
-num_unique_customers = 150
-sum_customer_lifespans =300
-period_in_months = 12
-customers_begin_period = 300
-customers_end_period = 280
-inventory_end_period = 300
-inventory_beginning_period = 250
 
 # The CLV class can call fuctions necessary for calculationg CLV and return CLV (w/h or w/h out Margin)
 class CustomerLifetimeValue:
